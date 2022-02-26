@@ -1,0 +1,22 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.clr{
+    background-color: #C4E2FF;
+    color: black;
+    letter-spacing: -0.05em;
+}
+.brdr{
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+.part{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+.part-2{
+    font-family: 'Fredericka the Great', cursive;
+}
+.stick{
+    position: relative;
+}
